@@ -33,7 +33,3 @@ Update the S3_BUCKET name in app.py.
 4️⃣ Run the Application
 Start the Flask server:
 
-bash
-Copy
-Edit
-python app.py
